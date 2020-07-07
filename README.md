@@ -1,3 +1,11 @@
 # git_test
 learning git
-make a change
+m
+asdasd
+asdas
+
+as
+
+gg
+git checkout
+ake a change
